@@ -1,0 +1,11 @@
+[submodule "projeto1"]
+  path = projeto1
+  url = git@github.com:AbnerHS/curso-reactjs-projeto1.git
+
+[submodule "projeto2"]
+  path = projeto2
+  url = git@github.com:AbnerHS/curso-reactjs-projeto2.git
+
+[submodule "projeto3"]
+  path = projeto3
+  url = git@github.com:AbnerHS/curso-reactjs-projeto3.git
